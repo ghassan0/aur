@@ -1,3 +1,6 @@
 [submodule "squeekboard"]
 	path = squeekboard
 	url = ssh://aur@aur.archlinux.org/squeekboard.git
+[submodule "esphome-flasher"]
+	path = esphome-flasher
+	url = ssh://aur@aur.archlinux.org/esphome-flasher.git
