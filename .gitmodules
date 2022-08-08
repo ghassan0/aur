@@ -1,0 +1,3 @@
+[submodule "squeekboard"]
+	path = squeekboard
+	url = ssh://aur@aur.archlinux.org/squeekboard.git
