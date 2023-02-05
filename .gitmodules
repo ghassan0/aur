@@ -16,3 +16,12 @@
 [submodule "gnome-shell-extension-firefox-pip"]
 	path = gnome-shell-extension-firefox-pip
 	url = ssh://aur@aur.archlinux.org/gnome-shell-extension-firefox-pip.git
+[submodule "python-gymnasium"]
+	path = python-gymnasium
+	url = ssh://aur@aur.archlinux.org/python-gymnasium.git
+[submodule "python-gymnasium-notices"]
+	path = python-gymnasium-notices
+	url = ssh://aur@aur.archlinux.org/python-gymnasium-notices.git
+[submodule "python-jax-jumpy"]
+	path = python-jax-jumpy
+	url = ssh://aur@aur.archlinux.org/python-jax-jumpy.git
