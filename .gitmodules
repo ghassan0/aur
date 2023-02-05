@@ -13,3 +13,6 @@
 [submodule "doti"]
 	path = doti
 	url = ssh://aur@aur.archlinux.org/doti.git
+[submodule "gnome-shell-extension-firefox-pip"]
+	path = gnome-shell-extension-firefox-pip
+	url = ssh://aur@aur.archlinux.org/gnome-shell-extension-firefox-pip.git
