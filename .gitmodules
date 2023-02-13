@@ -25,3 +25,6 @@
 [submodule "python-jax-jumpy"]
 	path = python-jax-jumpy
 	url = ssh://aur@aur.archlinux.org/python-jax-jumpy.git
+[submodule "google-calendar-nativefier-dark"]
+	path = google-calendar-nativefier-dark
+	url = ssh://aur@aur.archlinux.org/google-calendar-nativefier-dark.git
